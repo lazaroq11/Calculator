@@ -1,2 +1,2 @@
 # Calculator
-Calculadora desenvolvida em JS tendo como objetivo aperfeiçoar os conhecimentos na linguagem
+Calculadora desenvolvida em HTML, CSS e JS tendo como objetivo aperfeiçoar os conhecimentos.
